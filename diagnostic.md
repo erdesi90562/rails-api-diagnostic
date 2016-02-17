@@ -76,7 +76,7 @@ What are the commands to drop, create and migrate a database? (3 bullet points)
 ```bash
 Drop database mydb
 crate database mydb
-migrate cats, mydb
+migrate database cats, mydb
 ```
 
 What is the command to scaffold a pet with a name and an age?
